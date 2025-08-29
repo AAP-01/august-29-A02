@@ -12,7 +12,7 @@ wallet = (10*silver_coin+3*gold_coin)
 
 bag_of_rice = 20
 
-if wallet>bag_of_rice then
+if wallet>=bag_of_rice then
     print ("You bought a bag of rice.")
 else
     print ("You don't have enough money.")
