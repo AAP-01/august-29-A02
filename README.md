@@ -1,1 +1,1 @@
-# august-29-A02
+Assignment for Intro to Computer Science
