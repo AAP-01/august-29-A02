@@ -13,3 +13,6 @@ cloning github repository to vs code
 1. open github desktop
 2. log in
 3. open vs code from the desktop
+4. clone repository
+5. allow access
+6. open the repo
