@@ -1,1 +1,5 @@
 print ("Hello World!")
+
+if true then
+    print ("RAHHHHHHHHHHHHH")
+end
