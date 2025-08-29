@@ -8,3 +8,8 @@ committing on vs code
 5. add message
 6. commit
 7. sync changes
+
+cloning github repository to vs code
+1. open github desktop
+2. log in
+3. open vs code from the desktop
